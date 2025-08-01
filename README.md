@@ -8,7 +8,20 @@ This project provides a comprehensive analysis of the Global Superstore 2016 dat
 
 ## Dashboard Preview
 
+<!-- If the image does not display, make sure the file is uploaded to the repository and the filename matches exactly. -->
 ![Superstore 2016 Dashboard](Superstore%202016%20analysis%20Dashboard.png)
+
+## Detailed Project Description
+
+This project aims to provide a comprehensive analysis of sales data and performance metrics for a global superstore in 2016. Using Tableau, the dashboard enables users to:
+
+- Explore order trends and patterns over time
+- Analyze sales by state, region, and account manager
+- Examine profit, quantity, and discount metrics
+- Investigate sub-category and product-level performance
+- Identify key business insights and opportunities for growth
+
+The dashboard is designed for business intelligence and analytics training, allowing users to interactively filter and visualize data to gain actionable insights. It covers orders, returns, customers, and products across multiple regions, helping users understand sales performance, profitability, and market trends.
 
 ## How to Use
 
