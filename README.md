@@ -9,7 +9,7 @@ This project provides a comprehensive analysis of the Global Superstore 2016 dat
 ## Dashboard Preview
 
 <!-- If the image does not display, make sure the file is uploaded to the repository and the filename matches exactly. -->
-![Superstore 2016 Dashboard](Superstore%202016%20analysis%20Dashboard.png)
+![Superstore 2016 Dashboard](Superstore2016AnalysisDashboard.png)
 
 ## Detailed Project Description
 
